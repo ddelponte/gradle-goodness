@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.dean
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [app-name, data, data-jpa, gradle, groovy, groovy-application, http-client, jackson-databind, jdbc-hikari, logback, management, micronaut-aot, micronaut-build, micronaut-http-validation, mysql, netty-server, openapi, properties, readme, shade, spock, swagger-ui, test-resources]
